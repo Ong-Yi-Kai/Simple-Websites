@@ -1,2 +1,2 @@
 # Tip Calculator
-Simple sites for to aid with daily tasks
+To help my small brain calculate tips and splits that each person has to pay :")
